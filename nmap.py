@@ -1,14 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[10]:
-
-
-
-
-
-# In[74]:
-
 
 import socket
 
@@ -89,16 +78,4 @@ if __name__ == "__main__":
     print("-----------------------")
     print("-----------------------")
     print("TARAMA TAMAMLANDI")
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
 
