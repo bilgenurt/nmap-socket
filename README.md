@@ -18,7 +18,7 @@ Bu Python betiği, belirli bir port aralığı içindeki bir hedef IP adresinde 
 2. Betiği çalıştırın:
 
     ```bash
-    python3 nmap-socket.py
+    python3 nmap.py
     ```
 
 3. İstenilen IP adresini, başlangıç ve bitiş portlarını girmek ve TCP ile UDP tarama arasında seçim yapmak için yönergeleri izleyin.
