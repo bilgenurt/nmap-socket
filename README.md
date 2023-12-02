@@ -8,7 +8,7 @@ Bu Python betiği, belirli bir port aralığı içindeki bir hedef IP adresinde 
 
 ## Kullanım
 
-1. Deposu klonlayın:
+1. Proje deposunu klonlayın:
 
     ```bash
     git clone https://github.com/bilgenurt/nmap-socket.git
